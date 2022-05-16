@@ -8,15 +8,13 @@ This repository shares the learning process of the course CS221 in fall 2019 wit
 
 2. Homeworks' solutions
 
-   - Solution codes are in files named `submission.py` under each directory, and are marked as below:
+   - Solution codes are in files named `submission.py` under each directory and are marked as below:
 
      ```python
      # BEGIN YOUR CODE
-     
      """
-     codes
+     code
      """
-     
      # END YOUR CODE
      ```
 
